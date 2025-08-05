@@ -146,7 +146,7 @@ Group23-P3/
 │   └── interface/      # LookupEngine and main application
 ├── unique_cars_dataset.csv  # Vehicle database
 ├── Makefile           # Build configuration
-├── .gitignore         # Git ignore rules
+├── .csv               # Data points (cars)
 └── README.md          # This file
 ```
 
