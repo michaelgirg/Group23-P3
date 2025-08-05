@@ -8,7 +8,6 @@ void Car::display() const {
     std::cout << "Make: " << make << std::endl;
     std::cout << "Model: " << model << std::endl;
     std::cout << "Trim: " << trim << std::endl;
-    std::cout << "Unique ID: " << uniqueId << std::endl;
     std::cout << "Horsepower: " << horsepower << " hp" << std::endl;
     std::cout << "Torque: " << torque << " lb-ft" << std::endl;
     std::cout << "City MPG: " << cityMPG << std::endl;
