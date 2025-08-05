@@ -131,9 +131,9 @@ Skip List is 1.33x slower than Hash Table
 
 ## Team Members
 
-- **Michael Girgis**: Hash Table implementation
-- **Lathan Price**: Skip List implementation  
-- **Nelson Lu**: CLI interface and user input parsing
+- **Michael Girgis**: Skip List and Lookup Engine
+- **Lathan Price**: Hash Table and Lookup Engine
+- **Nelson Lu**: CLI, Timer, Statistics, CSV parser
 
 ## Project Structure
 
